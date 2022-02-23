@@ -1,3 +1,3 @@
-kullanici_adi="dhskrkvjnhstgdjwwj@bvhrs.com"
-sifre="istiklal7b414"
-kullanici_id="ornekhesapp1"
+username="dhskrkvjnhstgdjwwj@bvhrs.com"
+password="istiklal7b414"
+user_id="ornekhesapp1"
