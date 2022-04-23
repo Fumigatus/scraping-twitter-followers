@@ -1,2 +1,2 @@
 # scraping-twitter-followers
-Cart Curt
+You must check chromedriver version
